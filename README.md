@@ -3,7 +3,7 @@ Dada uma lista de nomes de números, converta-os para inteiros. Talvez o problem
 
 Entrada
 
-Em cada linha (cerca de 100000 linhas), há o nome de um número inteiro n, 0 ≤ n ≤ 1015-1.
+Em cada linha (cerca de 100000 linhas), há o nome de um número inteiro n, 0 ≤ n ≤ (10^15)-1.
 
 Saída
 
